@@ -36,13 +36,11 @@ xt_ndpi-y := main.o \
                 ${NDPI_PRO}/dropbox.o \
                 ${NDPI_PRO}/edonkey.o \
                 ${NDPI_PRO}/fasttrack.o \
-                ${NDPI_PRO}/feidian.o \
                 ${NDPI_PRO}/fiesta.o \
                 ${NDPI_PRO}/filetopia.o \
                 ${NDPI_PRO}/flash.o \
                 ${NDPI_PRO}/florensia.o \
                 ${NDPI_PRO}/ftp.o \
-                ${NDPI_PRO}/gadu_gadu.o \
                 ${NDPI_PRO}/gnutella.o \
                 ${NDPI_PRO}/gtp.o \
                 ${NDPI_PRO}/guildwars.o \
@@ -50,7 +48,6 @@ xt_ndpi-y := main.o \
                 ${NDPI_PRO}/halflife2_and_mods.o \
                 ${NDPI_PRO}/http.o \
                 ${NDPI_PRO}/http_activesync.o \
-                ${NDPI_PRO}/i23v5.o \
                 ${NDPI_PRO}/iax.o \
                 ${NDPI_PRO}/icecast.o \
                 ${NDPI_PRO}/imesh.o \
@@ -82,7 +79,6 @@ xt_ndpi-y := main.o \
                 ${NDPI_PRO}/openvpn.o \
                 ${NDPI_PRO}/oracle.o \
                 ${NDPI_PRO}/oscar.o \
-                ${NDPI_PRO}/pando.o \
                 ${NDPI_PRO}/pcanywhere.o \
                 ${NDPI_PRO}/popo.o \
                 ${NDPI_PRO}/postgres.o \
@@ -132,6 +128,7 @@ xt_ndpi-y := main.o \
                 ${NDPI_PRO}/vnc.o \
                 ${NDPI_PRO}/warcraft3.o \
                 ${NDPI_PRO}/winmx.o \
+                ${NDPI_PRO}/whoisdas.o \
                 ${NDPI_PRO}/world_of_kung_fu.o \
                 ${NDPI_PRO}/world_of_warcraft.o \
                 ${NDPI_PRO}/xbox.o \

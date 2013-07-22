@@ -32,11 +32,11 @@ struct xt_ndpi_mtinfo {
 #ifndef NDPI_PROTOCOL_LONG_STRING
 #define NDPI_PROTOCOL_LONG_STRING "Unknown","FTP","POP","SMTP","IMAP","DNS","IPP","HTTP","MDNS","NTP","NETBIOS",\
 "NFS","SSDP","BGP","SNMP","XDMCP","SMB","SYSLOG","DHCP","PostgreSQL","MySQL",\
-"TDS","DirectDownloadLink","I23V5","AppleJuice","DirectConnect","Socrates","WinMX","VMware","PANDO","Filetopia",\
+"TDS","DirectDownloadLink","AppleJuice","DirectConnect","Socrates","WinMX","VMware","Filetopia",\
 "iMESH","Kontiki","OpenFT","Kazaa","Gnutella","eDonkey","Bittorrent","OFF","AVI","Flash",\
 "OGG","MPEG","QuickTime","RealMedia","Windowsmedia","MMS","XBOX","QQ","MOVE","RTSP",\
-"Feidian","Icecast","PPLive","PPStream","Zattoo","SHOUTCast","SopCast","TVAnts","TVUplayer","VeohTV",\
-"QQLive","Thunder","Soulseek","GaduGadu","IRC","Popo","Unencrypted_Jabber","MSN","Oscar","Yahoo",\
+"Icecast","PPLive","PPStream","Zattoo","SHOUTCast","SopCast","TVAnts","TVUplayer","VeohTV",\
+"QQLive","Thunder","Soulseek","IRC","Popo","Unencrypted_Jabber","MSN","Oscar","Yahoo",\
 "Battlefield","Quake","VRRP","Steam","Halflife2","World_of_Warcraft","Telnet","STUN","IPSEC","GRE",\
 "ICMP","IGMP","EGP","SCTP","OSPF","IP_in_IP","RTP","RDP","VNC","PCAnywhere",\
 "SSL","SSH","USENET","MGCP","IAX","TFTP","AFP","StealthNet","Aimini","SIP",\
@@ -51,11 +51,11 @@ struct xt_ndpi_mtinfo {
 #ifndef NDPI_PROTOCOL_SHORT_STRING
 #define NDPI_PROTOCOL_SHORT_STRING "ukn","ftp","pop","smtp","imap","dns","ipp","http","mdns","ntp","netbios",\
 "nfs","ssdp","bgp","snmp","xdmcp","smb","syslog","dhcp","postgres","mysql",\
-"tds","ddl","i23v5","applejuice","directconnect","socrates","winmx","vmware","pando","filetopia",\
+"tds","ddl","applejuice","directconnect","socrates","winmx","vmware","filetopia",\
 "iMESH","kontiki","openft","fasttrack","gnutella","edonkey","bittorrent","off","avi","flash",\
 "ogg","mpeg","quicktime","realmedia","windowsmedia","mms","xbox","qq","move","rtsp",\
-"feidian","icecast","pplive","ppstream","zattoo","shoutcast","sopcast","tvants","tvuplayer","veohtv",\
-"qqlive","thunder","soulseek","gadugadu","irc","popo","jabber","msn","oscar","yahoo",\
+"icecast","pplive","ppstream","zattoo","shoutcast","sopcast","tvants","tvuplayer","veohtv",\
+"qqlive","thunder","soulseek","irc","popo","jabber","msn","oscar","yahoo",\
 "battlefield","quake","vrrp","steam","hl2","worldofwarcraft","telnet","stun","ipsec","gre",\
 "icmp","igmp","egp","sctp","ospf","ipip","rtp","rdp","vnc","pcanywhere",\
 "ssl","ssh","usenet","mgcp","iax","tftp","afp","stealthnet","aimini","sip",\
